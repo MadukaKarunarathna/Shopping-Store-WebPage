@@ -1,0 +1,7 @@
+.input-box {
+  display: flex;
+}
+
+.wrapper {
+  min-height: 500px;
+}
